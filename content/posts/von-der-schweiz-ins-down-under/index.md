@@ -6,7 +6,7 @@ pinned = false
 tags = ["Auswandern", "Migration", "Australien", "Melbourne", "Autorin", "Bücher"]
 image = "img_1974.png"
 description = "\nMarlene Derlet, eine Schweizerin, erzählt von ihrer Reise nach Australien in den 60er Jahren. Motiviert durch ihren Partner Anton, wählten sie das Land als ihre neue Heimat. Die Reise erfolgte auf dem Migrantenschiff \"Johann van Olden Barnewelt\". Marlene arbeitete in einer Buchhandlung, später auch als Autorin. Ihre Bücher \"Talking up a Storm\" und \"Invisible Woman of Prehistory\" reflektieren ihre Erfahrungen und feministische Perspektiven. Marlene schätzt die Freundlichkeit der Australier und teilt Geschichten über den ersten Cappuccino in Melbourne sowie ihre Anpassung an das neue Leben."
-footnotes = "Weitere Reportage über Marlene Derlet https://katleendebeukeleer.weebly.com/uploads/4/1/1/5/41156345/2017_07_grosselternmag_marlenederlet_compressed.pdf"
+footnotes = ""
 +++
 
 
