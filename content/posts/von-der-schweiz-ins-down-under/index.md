@@ -8,15 +8,9 @@ image = "img_1974.png"
 description = "\nMarlene Derlet, eine Schweizerin, erzählt von ihrer Reise nach Australien in den 60er Jahren. Motiviert durch ihren Partner Anton, wählten sie das Land als ihre neue Heimat. Die Reise erfolgte auf dem Migrantenschiff \"Johann van Olden Barnewelt\". Marlene arbeitete in einer Buchhandlung, später auch als Autorin. Ihre Bücher \"Talking up a Storm\" und \"Invisible Woman of Prehistory\" reflektieren ihre Erfahrungen und feministische Perspektiven. Marlene schätzt die Freundlichkeit der Australier und teilt Geschichten über den ersten Cappuccino in Melbourne sowie ihre Anpassung an das neue Leben."
 footnotes = "Weitere Reportage über Marlene Derlet: https://katleendebeukeleer.weebly.com/uploads/4/1/1/5/41156345/2017_07_grosselternmag_marlenederlet_compressed.pdf"
 +++
-
-
 Wie fühlt es sich an, in ein Land zu migrieren, das man zuvor noch nie betreten hat? In den frühen 60ern begaben sich Marlene Derlet und ihr Partner Anton Derlet auf eine Reise in das Down-Under. In unserem Interview teilt sie ihre Erfahrungen über die Faszination, aber auch die Herausforderungen, ein vollkommen neues Land zu bereisen.
 
-
-
 Die Mittagssonne taucht das geräumige Wohnzimmer in goldenes Licht. Marlene Derlet nimmt Platz auf einem braunen Ledersessel und erwartet gespannt die Fragen, die ich ihr in Kürze stellen werde. Die Atmosphäre wirkt ruhig und gelassen. Das Smartphone findet seinen Platz auf dem Beistelltisch, der Startbutton wird gedrückt.
-
-
 
 **Fangen wir an. Kannst du uns deine Motivationen teilen, warum du von der Schweiz nach**
 
@@ -52,7 +46,7 @@ https://www.londoncourtbooks.com.au/bookstore/p/talking-up-a-storm
 
 OK, jetzt muss ich darüber nachdenken, was ich studiert habe. Ich hatte zuerst Linguistik und dann Soziologie, Anthropologie und die deutsche Sprache und ja, natürlich war das damals ziemlich anders. Du konntest keine Aborigines sehen. Sie wurden in Reservaten gehalten. Als ich dort studierte, war eine Freundin von mir Hälfte Aborigine und die andere Hälfte Englisch, und wir haben zusammen studiert. Sie durfte sogar das Department of Koori Research Centre übernehmen. Das war damals der Name, weil die Aborigines in einem bestimmten Teil Koori genannt wurden. Es ist ein Department für indigene Studien, weißt du. Mit ihr durfte ich überall in Australien hingehen, das war das Positive, wir haben sogar kleine Flugzeuge gemietet und so weiter. Das würde ich in der Schweiz nie erleben, weißt du.
 
-![Marlene Derlet, geboren 14.09.1936, ist in den 60ern nach Australien Melbourne ausgewandert. 2008 kam sie wegen ihren Enkelkindern wieder zurück in die Schweiz. Heute lebt sie in einer kleinenr Wohnung auserhalb von Basel.](whatsapp-image-2024-02-24-at-1.50.40-pm.jpeg)
+![Marlene Derlet, geboren 14.09.1936, ist in den 60ern nach Australien Melbourne ausgewandert. 2008 kam sie wegen ihren Enkelkindern wieder zurück in die Schweiz. Heute lebt sie in einer kleinen Wohnung auserhalb von Basel.](whatsapp-image-2024-02-24-at-1.50.40-pm.jpeg)
 
 **Gab es viele kulturelle Unterschiede zwischen der Schweiz und Australien?**
 
