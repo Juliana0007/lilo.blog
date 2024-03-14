@@ -12,9 +12,7 @@ footnotes = ""
 
 Wie fühlt es sich an, in ein Land zu migrieren, das man zuvor noch nie betreten hat? In den frühen 60ern begaben sich Marlene Derlet und ihr Partner Anton Derlet auf eine Reise in das Down-Under. In unserem Interview teilt sie ihre Erfahrungen über die Faszination, aber auch die Herausforderungen, ein vollkommen neues Land zu bereisen.
 
-`{{</lead>}}`
-
-
+{{</lead>}}
 
 Die Mittagssonne taucht das geräumige Wohnzimmer in goldenes Licht. Marlene Derlet nimmt Platz auf einem braunen Ledersessel und erwartet gespannt die Fragen, die ich ihr in Kürze stellen werde. Die Atmosphäre wirkt ruhig und gelassen. Das Smartphone findet seinen Platz auf dem Beistelltisch, der Startbutton wird gedrückt.
 
