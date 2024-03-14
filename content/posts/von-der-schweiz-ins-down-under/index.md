@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Auswandern", "Migration", "Australien", "Melbourne", "Autorin", "Bücher"]
 image = "img_1974.png"
-description = "\nIn den 1960er Jahren zog die Schweizerin Marlene Derlet, mit ihrem Partner Anton, nach Australien. Sie reiste auf dem Migrantenschiff \"Johann van Olden Barnewelt\" und arbeitete in einer Buchhandlung sowie später als Schriftstellerin. Ihre Bücher \"Talking up a Storm\" und \"Invisible Woman of Prehistory\" spiegeln ihre Erfahrungen und feministischen Ansichten wieder. Marlene schwärmt von der Gastfreundschaft der Australier und teilt die Geschichte über ihren ersten Cappuccino in Melbourne und ihre Anpassung an ihr neues Leben."
+description = "In den 1960er Jahren zog die Schweizerin Marlene Derlet, mit ihrem Partner Anton, nach Australien. Sie reiste auf dem Migrantenschiff \"Johann van Olden Barnewelt\" und arbeitete in einer Buchhandlung sowie später als Schriftstellerin. Ihre Bücher \"Talking up a Storm\" und \"Invisible Woman of Prehistory\" spiegeln ihre Erfahrungen und feministischen Ansichten wieder. Marlene schwärmt von der Gastfreundschaft der Australier und teilt die Geschichte über ihren ersten Cappuccino in Melbourne und ihre Anpassung an ihr neues Leben."
 footnotes = ""
 +++
 Wie fühlt es sich an, in ein Land zu migrieren, das man zuvor noch nie betreten hat? In den frühen 60ern begaben sich Marlene Derlet und ihr Partner Anton Derlet auf eine Reise in das Down-Under. In unserem Interview teilt sie ihre Erfahrungen über die Faszination, aber auch die Herausforderungen, ein vollkommen neues Land zu bereisen.
