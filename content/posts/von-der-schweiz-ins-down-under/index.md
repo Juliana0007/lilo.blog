@@ -14,7 +14,22 @@ Wie fühlt es sich an, in ein Land zu migrieren, das man zuvor noch nie betreten
 
 {{</lead>}}
 
+*Emma Derlet*
+
 Die Mittagssonne taucht das geräumige Wohnzimmer in goldenes Licht. Marlene Derlet nimmt Platz auf einem braunen Ledersessel und erwartet gespannt die Fragen, die ich ihr in Kürze stellen werde. Die Atmosphäre wirkt ruhig und gelassen. Das Smartphone findet seinen Platz auf dem Beistelltisch, der Startbutton wird gedrückt.
+
+
+
+{{<box>}}
+
+* Name: Marlene Derlet
+* Alter: 84 Jahre alt
+* Status: Pensioniert
+* Ehemalige Berufung: Autorin, Lehrering, Forscherin
+
+{{</box>}}
+
+
 
 **Fangen wir an. Kannst du uns deine Motivationen teilen, warum du von der Schweiz nach**
 
