@@ -26,7 +26,7 @@ Die Mittagssonne taucht das geräumige Wohnzimmer in goldenes Licht. Marlene Der
 * Alter: 84 Jahre alt
 * Status: Pensioniert
 * Herkunft: Schweiz, Frankreich
-* Ehemalige Berufung: Autorin, Lehrering, Forscherin
+* Ehemalige Berufung: Autorin, Lehrerin, Forscherin
 
 {{</box>}}
 
