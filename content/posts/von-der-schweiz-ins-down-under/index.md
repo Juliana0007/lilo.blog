@@ -16,10 +16,6 @@ Wie fühlt es sich an, in ein Land zu migrieren, das man zuvor noch nie betreten
 
 *Emma Derlet*
 
-Die Mittagssonne taucht das geräumige Wohnzimmer in goldenes Licht. Marlene Derlet nimmt Platz auf einem braunen Ledersessel und erwartet gespannt die Fragen, die ich ihr in Kürze stellen werde. Die Atmosphäre wirkt ruhig und gelassen. Das Smartphone findet seinen Platz auf dem Beistelltisch, der Startbutton wird gedrückt.
-
-
-
 {{<box>}}
 
 * Name: Marlene Derlet
@@ -29,6 +25,10 @@ Die Mittagssonne taucht das geräumige Wohnzimmer in goldenes Licht. Marlene Der
 * Ehemalige Berufung: Autorin, Lehrerin, Forscherin
 
 {{</box>}}
+
+
+
+Die Mittagssonne taucht das geräumige Wohnzimmer in goldenes Licht. Marlene Derlet nimmt Platz auf einem braunen Ledersessel und erwartet gespannt die Fragen, die ich ihr in Kürze stellen werde. Die Atmosphäre wirkt ruhig und gelassen. Das Smartphone findet seinen Platz auf dem Beistelltisch, der Startbutton wird gedrückt.
 
 
 
