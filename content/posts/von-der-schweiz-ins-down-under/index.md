@@ -26,19 +26,17 @@ Wie fühlt es sich an, in ein Land zu migrieren, das man zuvor noch nie betreten
 
 {{</box>}}
 
-
-
 Die Mittagssonne taucht das geräumige Wohnzimmer in goldenes Licht. Marlene Derlet nimmt Platz auf einem braunen Ledersessel und erwartet gespannt die Fragen, die ich ihr in Kürze stellen werde. Die Atmosphäre wirkt ruhig und gelassen. Das Smartphone findet seinen Platz auf dem Beistelltisch, der Startbutton wird gedrückt.
 
-
-
-**Fangen wir an. Kannst du uns deine Motivationen teilen, warum du von der Schweiz nach**
+**Fangen wir an. Kannst du uns deine Motivationen teilen, warum du von der Schweiz nach Australien gezogen bist?**
 
 Anton mein dahmaliger Ehemann hatte Freunde, die Verwandte in Australien haben und sie haben darüber gesprochen, wie schön es dort war. Ich wollte schon immer irgendwohin gehen, und er wollte ins Ausland, also war Australien damals die beste Option. Ich persönlich wollte nach Kanada gehen, aber wir haben uns dann dafür entschieden.
 
 **Wie war die Reise nach Australien, Melbourne?**                                         
 
 Wir sind von Genua, also aus Italien, nach Australien gezogen. Mit dem Schiff, das hieß Johann van Olden Barnewelt. Es war ein Migrantenschiff und es legte am 18. April 1960 in Italien ab. Und wir kamen am 16. Mai 1960 in Melbourne an. Ich war oft seekrank. Ich wurde schon immer krank auf der See, sogar hier in der Schweiz, als ich ein kleines Kind war. Selbst jetzt mag ich keine Schiffe. Ich meine, ich liebe Schiffe, aber sie machen mich leider krank.
+
+
 
 ## ***«Ich mochte es, in Australien zu leben, weil die Leute irgendwie so anders waren, freundlicher auf eine Weise, und auch die Nachbarn. Viel freundlicher als die Schweizer.»***
 
