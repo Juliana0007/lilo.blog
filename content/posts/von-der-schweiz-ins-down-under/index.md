@@ -8,7 +8,7 @@ image = "img_1974.png"
 description = "In den 60er Jahren zog die Schweizerin Marlene Derlet, mit ihrem Partner Anton, nach Australien. Sie reiste auf dem Migrantenschiff \"Johann van Olden Barnewelt\" und arbeitete in einer Buchhandlung sowie später als Schriftstellerin. Ihre Bücher \"Talking up a Storm\" und \"Invisible Woman of Prehistory\" spiegeln ihre Erfahrungen und feministischen Ansichten wieder. Marlene schwärmt von der Gastfreundschaft der Australier und teilt die Geschichte über ihren ersten Cappuccino in Melbourne und ihre Anpassung an ihr neues Leben."
 footnotes = ""
 +++
-{{<lead>}}
+> {{<lead>}}
 
 Wie fühlt es sich an, in ein Land zu migrieren, das man zuvor noch nie betreten hat? In den frühen 60ern begaben sich Marlene Derlet und ihr Partner Anton Derlet auf eine Reise in das Down-Under. In unserem Interview teilt sie ihre Erfahrungen über die Faszination, aber auch die Herausforderungen, ein vollkommen neues Land zu bereisen.
 
@@ -36,9 +36,9 @@ Anton mein dahmaliger Ehemann hatte Freunde, die Verwandte in Australien haben u
 
 Wir sind von Genua, also aus Italien, nach Australien gezogen. Mit dem Schiff, das hieß Johann van Olden Barnewelt. Es war ein Migrantenschiff und es legte am 18. April 1960 in Italien ab. Und wir kamen am 16. Mai 1960 in Melbourne an. Ich war oft seekrank. Ich wurde schon immer krank auf der See, sogar hier in der Schweiz, als ich ein kleines Kind war. Selbst jetzt mag ich keine Schiffe. Ich meine, ich liebe Schiffe, aber sie machen mich leider krank.
 
-
-
-## ***«Ich mochte es, in Australien zu leben, weil die Leute irgendwie so anders waren, freundlicher auf eine Weise, und auch die Nachbarn. Viel freundlicher als die Schweizer.»***
+> ## «Ich mochte es, in Australien zu leben, weil die Leute irgendwie so anders waren, freundlicher auf eine Weise, und auch die Nachbarn. Viel freundlicher als die Schweizer.»
+>
+> *Marlene Derlet*
 
 **Was habt ihr am ersten Tag gemacht, als ihr angekommen seid?**
 
@@ -58,7 +58,9 @@ https://www.spinifexpress.com.au/marlenederlet
 
 https://www.londoncourtbooks.com.au/bookstore/p/talking-up-a-storm
 
-## ***«In einer Frauengruppe habe ich angefangen zu schreiben uns so habe ich angefangen mein eigenes Buch zu schreiben»***
+> ## ***«In einer Frauengruppe habe ich angefangen zu schreiben uns so habe ich angefangen mein eigenes Buch zu schreiben»***
+>
+> *Marlene Derlet*
 
 **Du hast auch Forschungen über Aborigines gemacht, wie bist du dazu gekommen?**
 
