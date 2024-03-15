@@ -36,6 +36,8 @@ Anton mein dahmaliger Ehemann hatte Freunde, die Verwandte in Australien haben u
 
 Wir sind von Genua, also aus Italien, nach Australien gezogen. Mit dem Schiff, das hieß Johann van Olden Barnewelt. Es war ein Migrantenschiff und es legte am 18. April 1960 in Italien ab. Und wir kamen am 16. Mai 1960 in Melbourne an. Ich war oft seekrank. Ich wurde schon immer krank auf der See, sogar hier in der Schweiz, als ich ein kleines Kind war. Selbst jetzt mag ich keine Schiffe. Ich meine, ich liebe Schiffe, aber sie machen mich leider krank.
 
+
+
 > ## «Ich mochte es, in Australien zu leben, weil die Leute irgendwie so anders waren, freundlicher auf eine Weise, und auch die Nachbarn. Viel freundlicher als die Schweizer.»
 >
 > *Marlene Derlet*
@@ -57,6 +59,8 @@ Hier sind noch die zwei links zu den Büchern:
 https://www.spinifexpress.com.au/marlenederlet
 
 https://www.londoncourtbooks.com.au/bookstore/p/talking-up-a-storm
+
+
 
 > ## ***«In einer Frauengruppe habe ich angefangen zu schreiben uns so habe ich angefangen mein eigenes Buch zu schreiben»***
 >
