@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Auswandern", "Migration", "Australien", "Melbourne", "Autorin", "Bücher"]
 image = "img_1974.png"
-description = "In den 60er Jahren zog die Schweizerin Marlene Derlet, mit ihrem Partner Anton, nach Australien. Sie reiste auf dem Migrantenschiff \"Johann van Olden Barnewelt\" und arbeitete in einer Buchhandlung sowie später als Schriftstellerin. Ihre Bücher \"Talking up a Storm\" und \"Invisible Woman of Prehistory\" spiegeln ihre Erfahrungen und feministischen Ansichten wieder. Marlene schwärmt von der Gastfreundschaft der Australier und teilt die Geschichte über ihren ersten Cappuccino in Melbourne und ihre Anpassung an ihr neues Leben."
+description = "In den 60er Jahren zog die Schweizerin Marlene Derlet, mit ihrem Partner Anton, nach Australien. Sie reiste auf dem Migrantenschiff \"Johann van Olden Barnewelt\" und arbeitete in einer Buchhandlung sowie später als Schriftstellerin. Ihre Bücher \"Talking up a Storm\" und \"Invisible Woman of Prehistory\" zeigen ihre Erfahrungen und feministischen Ansichten. Marlene erzählt von der Freundlichkeit der Australier und teilt die Geschichte über ihren ersten Cappuccino in Melbourne und ihre Anpassung an ihr neues Leben."
 footnotes = ""
 +++
 {{<lead>}}
