@@ -3,7 +3,7 @@ title = "Von der Schweiz ins Down-Under 1"
 date = "2024-04-16"
 draft = false
 pinned = false
-description = "lead\n\nstimmungsbild\n\n5 untertitel"
+description = "\n\nstimmungsbild\n\n5 untertitel"
 +++
 {{<lead>}}
 
