@@ -5,4 +5,4 @@ draft = false
 pinned = false
 description = "lead\n\nstimmungsbild\n\n5 untertitel"
 +++
-Mit nur 23 Jahren wandert die Schweizerin Marlene Derlet nach Australien aus. Mit ihr an ihrer seite, ihr damaliger Mann Anton Derlet.
+Mit nur 23 Jahren wandert die Schweizerin Marlene Derlet nach Australien aus. An ihrer Seite, ihr Mann Anton Derlet. Vom ersten Kaffe in Australien bis zu spannenden Forschungsreisen, alles ist dabei. Marlene Derlet erzählt, wie Sie sich in einem neuen Land zurechtgefunden hat, aber auch welche Herausforderungen eine solche Veränderung bringen können. Wieso sie dann anfang 2000 wieder zurück in die Schweiz ging, wird sie uns auch näherbringen.
