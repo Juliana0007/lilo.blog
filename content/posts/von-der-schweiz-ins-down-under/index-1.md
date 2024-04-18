@@ -3,6 +3,7 @@ title = "Von der Schweiz ins Down-Under 1"
 date = "2024-04-16"
 draft = false
 pinned = false
+tags = ["auswandern", "australien", "melbourne", "forschung", ""]
 description = ""
 +++
 {{<lead>}}
@@ -11,4 +12,4 @@ Mit nur 23 Jahren wandert die Schweizerin Marlene Derlet nach Australien aus. An
 
 {{</lead>}}
 
-Draussen weht ein sanfter Wind, die ersten grünen Blätter wachsen heran. Der Frühling kommt! Durch die grossen Fenster im Wohnzimmer, wirft die Sonne warme Lichtstrahlen herein.
+Draussen weht ein sanfter Wind, die ersten grünen Blätter wachsen heran. Der Frühling kommt! Durch die grossen Fenster im Wohnzimmer, wirft die Mittagssonne warme Lichtstrahlen herein.
