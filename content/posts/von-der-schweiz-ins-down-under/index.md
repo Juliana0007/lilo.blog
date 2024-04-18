@@ -19,7 +19,7 @@ Wie fühlt es sich an, in ein Land zu migrieren, das man zuvor noch nie betreten
 {{<box>}}
 
 * Name: Marlene Derlet
-* Alter: 84 Jahre alt
+* Alter: 87 Jahre alt
 * Status: Pensioniert
 * Herkunft: Schweiz, Frankreich
 * Ehemalige Berufung: Autorin, Lehrerin, Forscherin
