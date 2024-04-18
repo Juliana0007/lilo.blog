@@ -12,4 +12,4 @@ Mit nur 23 Jahren wandert die Schweizerin Marlene Derlet nach Australien aus. An
 
 {{</lead>}}
 
-An diesem Morge setzte sich Marlene in Basel in den Zug und fuhr bis nach Bern. Mit der Spannung auf die Fragen und einem Gefühl von Vorfreude über ihr Leben erzählen zu könnnen, setzt sich die 87 jährige Marlene Derlet auf den Sessel. Draussen weht ein sanfter Wind, die ersten grünen Blätter wachsen heran. Der Frühling kommt! Durch die grossen Fenster im Wohnzimmer, wirft die Mittagssonne warme Lichtstrahlen herein
+An diesem Morge setzte sich Marlene Derlet in Basel in den Zug und fuhr bis nach Bern. Vom Bahnhof aus sind es dann nur noch Zehn Minuten zu Fuss bis man das Marzilli-quartier erreicht. Angekommen setzt sich die 87 jährige Marlene Derlet in einen Schwarzen Sessel.  Draussen weht ein sanfter Wind, die ersten grünen Blätter wachsen heran. Der Frühling kommt! Durch die grossen Fenster im Wohnzimmer, wirft die Mittagssonne warme Lichtstrahlen herein. Mit einer Spannung auf die Fragen und einem Gefühl von Vorfreude, fängt Marlene an zu erzählen.
