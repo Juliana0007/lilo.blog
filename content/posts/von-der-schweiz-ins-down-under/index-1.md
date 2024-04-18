@@ -12,7 +12,7 @@ Mit nur 23 Jahren wandert die Schweizerin Marlene Derlet nach Australien aus. An
 
 {{</lead>}}
 
-
+*Emma Derlet*
 
 {{<box>}}
 
