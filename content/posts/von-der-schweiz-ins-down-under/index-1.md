@@ -12,4 +12,4 @@ Mit nur 23 Jahren wandert die Schweizerin Marlene Derlet nach Australien aus. An
 
 {{</lead>}}
 
-Draussen weht ein sanfter Wind, die ersten grünen Blätter wachsen heran. Der Frühling kommt! Durch die grossen Fenster im Wohnzimmer, wirft die Mittagssonne warme Lichtstrahlen herein.
+Draussen weht ein sanfter Wind, die ersten grünen Blätter wachsen heran. Der Frühling kommt! Durch die grossen Fenster im Wohnzimmer, wirft die Mittagssonne warme Lichtstrahlen herein. Nach einer anstrengender Zugfahrt von Basel bis Bern, setzt sich die 87 jährige Marlene Derlet auf den Sessel der gegenüber des garuen Sofas steht .
