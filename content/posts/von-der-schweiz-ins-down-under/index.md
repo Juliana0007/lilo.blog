@@ -1,5 +1,5 @@
 +++
-title = "Von der Schweiz ins Down-Under"
+title = "Das Interview"
 date = "2024-03-13"
 draft = false
 pinned = false
