@@ -4,6 +4,7 @@ date = "2024-04-16"
 draft = false
 pinned = false
 tags = ["auswandern", "australien", "melbourne", "forschung", ""]
+image = "img_1974.png"
 description = ""
 +++
 
