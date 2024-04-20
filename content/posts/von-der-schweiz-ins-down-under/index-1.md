@@ -7,8 +7,6 @@ tags = ["auswandern", "australien", "melbourne", "forschung", ""]
 image = "img_1974.png"
 description = ""
 +++
-
-
 Mit nur 23 Jahren wandert die Schweizerin Marlene Derlet nach Australien aus. An ihrer Seite, ihr Mann Anton Derlet. Vom ersten Kaffee in Australien bis zu spannenden Forschungsreisen, alles ist dabei. Marlene Derlet erzählt, wie Sie sich in einem neuen Land zurechtgefunden hat, aber auch welche Herausforderungen eine solche Veränderung bringen können. Wieso sie dann Anfang 2000 wieder zurück in die Schweiz ging, wird sie uns auch näherbringen.
 
 *Emma Derlet*
@@ -28,3 +26,7 @@ Jeder hatte damals über das Leben in Australien geschwärmt, die Wärme, die So
 Der Alltag
 
 In den 60ern wanderten viele Menschen nach Victoria aus, wegen des Goldrausches. Auch Anton Derlet hat sein glück damals versucht. Doch ein Gesamteinkommen war es nicht. Deswegen suchte das Paar nach der Einreise eine Berufung. Ein Job zu finden war einfach, denn Australien brauchte Arbeiter. Die freie Stelle in einer Buchhandlung kam Marlene gerade gut. Während Marlene Bücher verkaufte, arbeitete Anton in einer Autofabrik. Aber schon bald konnte Anton seine eigenen Fabriken öffnen. An die australische Kultur haben sich Marlene und Anton ziemlich erfreut angepasst. Marlene schwärmt von der Freundlichkeit der Australier verglichen zu den Schweizer. Marlene sagt jedoch: «Das Essen, das war sehr schwierig. Sie haben ziemlich unterschiedliches Essen. Also fanden wir einige Schweizer Bäckereien oder europäische Bäckereien». Somit war das dann aber doch lösbar. Einige Missverständnisse gab es aber trotzdem. Oft brauchen andere Länder, andere Redewendungen, so auch als ein paar Freunde Marlene gefragt haben, ob sie ein Teller zu der Garten Party bringen könnten. Gesagt getan, haben Marlene und Anton einen Teller mitgebracht. Gemeint war aber ein Teller mit Essen.
+
+Das Leben 
+
+Etwas später beschliesst Marlene Derlet zu Studieren. Was ihr besonders gefallen hat, war das Frauen gratis in Australien Studieren durften. Studiert hat Marlene Derlet Linguistik, Sprachpsychologie und Soziologie and der Monash University in Melbourne. Später hat Sie aber die Uhreinwohner von Australien interessiert. Eine Studienkollegin die halb englisch, halb Aborigines war, durfte das Department of Koori Research Centre übernehmen. Das war damals der Name, weil die Aborigines in einem bestimmten Teil Koori genannt wurden. Bei ihrer Arbeit durfte Marlene mitarbeiten. Damals konnte man aber auf der Strasse und in den Städten keine Aborigines sehen, da sie in Reservaten gehalten wurden. Deswegen sind Marlene und ihre Freundin durch ganz Australien gereist, um die verschiedenen Stämme zu besuchen und um ihre Forschung fortzusetzen. Um das zu machen haben sie immer wieder ein kleines Flugzeug gemietet. Marlene Derlet äussert: «Sowas hätte ich nie in der Schweiz erlebt».
