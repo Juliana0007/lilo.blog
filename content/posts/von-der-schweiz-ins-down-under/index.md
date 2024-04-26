@@ -17,7 +17,7 @@ Mit 23 Jahren wandert die Schweizerin Marlene Derlet nach Australien aus. An ihr
 {{<box>}}
 
 * Name: Marlene Derlet
-* Alter: 87 Jahre alt
+* Alter: 14.09.1936
 * Status: Pensioniert
 * Herkunft: Schweiz, Frankreich
 * Ehemalige Berufung: Kaufmännisch Angestellte, Lehrerin, Forscherin, Autorin
