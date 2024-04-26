@@ -8,7 +8,7 @@ image = "img_0748.jpeg"
 +++
 {{<lead>}}
 
-Mit nur 23 Jahren wandert die Schweizerin Marlene Derlet nach Australien aus. An ihrer Seite ist ihr Mann Anton Derlet. Vom ersten Kaffee in Australien bis zu spannenden Forschungsreisen ist alles dabei. Marlene Derlet erzählt, wie sie sich in einem neuen Land zurechtfindet, aber auch welche Herausforderungen eine solche Veränderung mit sich bringt. Warum sie dann Anfang der 2000er Jahre wieder zurück in die Schweiz geht, wird sie uns auch näherbringen.
+Mit 23 Jahren wandert die Schweizerin Marlene Derlet nach Australien aus. An ihrer Seite ist ihr Mann, Anton Derlet. Marlene Derlet erzählt, wie sie sich in einem neuen Land zurechtfindet, aber auch welche Herausforderungen eine solche Veränderung mit sich bringt. Ihre Erzählungen beinhalten Geschichten über den  ersten Kaffee bis zu spannenden Forschungsreisen. Zudem wird sie erläutern, wieso sie wieder in die Schweiz zurückgekehrt ist.
 
 {{</lead>}}
 
@@ -28,7 +28,7 @@ An diesem Morgen setzt sich Marlene Derlet in Basel in den Zug und fährt bis na
 
 Der Anfang
 
-Jeder hatte damals über das Leben in Australien geschwärmt, die Wärme, die Sonne, die Menschen. Auch Marlene und ihr Ehemann Anton wollen an die Wärme ziehen, deswegen machen sie sich am 18. April 1960 mit dem Schiff auf den Weg. Das Schiff Johan van Oldenbarnevelt, ein Migrantenschiff, hat Platz für 770 Passagiere. Das Schiff sticht von Genua aus zu einer fünfwöchigen Reise in See. Marlene ist oft seekrank, doch auf dem Schiff gibt es viele Möglichkeiten, sich abzulenken. Als das Ehepaar am 16. Mai 1960 in Melbourne, der zweit grössten Stadt Australiens, ankommen werden sie schon von polnischen Freunden erwartet. Die Bekanntschaft führt Marlene und Anton direkt zu einem neu eröffnetem Kaffee Laden. Dort trinken sie den ersten Cappuccino, den es in Australien gibt. Die weiteren Wochen verbringt das Paar in einer Unterkunft von Freunden, die sie auf dem Schiff kennengelernt haben. Die Einwohner von Melbourne bieten Migranten oft Zimmer oder Wohnungen an. Marlenes erster Eindruck ist positiv. Sie fühlt sich schnell wohl, in dem noch fremden Land.
+Jeder hatte damals über das Leben in Australien geschwärmt, die Wärme, die Sonne, die Menschen. Auch Marlene und ihr Ehemann Anton wollen an die Wärme ziehen, deswegen machen sie sich am 18. April 1960 mit dem Schiff auf den Weg. Das Schiff Johan van Oldenbarnevelt, ein Migrantenschiff, hat Platz für 770 Passagiere. Das Schiff sticht von Genua aus zu einer fünfwöchigen Reise in See. Marlene ist oft seekrank, doch auf dem Schiff gibt es viele Möglichkeiten, sich abzulenken. Als das Ehepaar am 16. Mai 1960 in Melbourne, der zweit grössten Stadt Australiens, ankommt werden sie schon von polnischen Freunden erwartet. Die Bekanntschaft führt Marlene und Anton direkt zu einem neu eröffnetem Kaffee Laden. Dort trinken sie den ersten Cappuccino, den es in Australien gibt. Die weiteren Wochen verbringt das Paar in einer Unterkunft von Freunden, die sie auf dem Schiff kennengelernt haben. Die Einwohner von Melbourne bieten Migranten oft Zimmer oder Wohnungen an. Marlenes erster Eindruck ist positiv. Sie fühlt sich schnell wohl, in dem noch fremden Land.
 
 Der Alltag
 
