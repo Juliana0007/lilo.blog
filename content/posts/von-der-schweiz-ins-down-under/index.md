@@ -38,7 +38,7 @@ In den 60ern wanderten viele Menschen nach Victoria aus, wegen des Goldrausches.
 
 Die Studienzeit
 
-> «Sowas hätte ich nie in der Schweiz erlebt»
+> Sowas hätte ich nie in der Schweiz erlebt
 
 Etwas später beschliesst Marlene Derlet zu Studieren. Was ihr besonders gefallen hat, war das Frauen gratis in Australien Studieren durften. Marlene hat Linguistik, Sprachpsychologie und Anthropologie an der Monash University in Melbourne. Später hat Sie aber die Uhreinwohner von Australien interessiert. Eine Studienkollegin die halb Englisch, halb Aborigines war, durfte als erste Aborigine das Department of Koori Research Centre übernehmen. Das war damals der Name, weil die Aborigines in einem bestimmten Teil Koori genannt wurden. Bei ihrer Arbeit durfte Marlene mitarbeiten. Damals konnte man aber auf der Strasse und in den Städten keine Aborigines sehen, da sie in Reservaten gehalten wurden. Deswegen sind Marlene und ihre Freundin durch ganz Australien gereist, um die verschiedenen Stämme zu besuchen und um ihre Forschung fortzusetzen. Um das zu machen haben sie immer wieder ein kleines Flugzeug gemietet.  Die Rechte der Aborigine waren Marlene Derlet aber genauso wichtig wie die Rechte der Frauen. Ihre Liebe zum Schreiben hat sie mit der Wichtigkeit der Frauenrechte verbunden. So entstanden zwei Bücher, auf dem einen Buch ist sie als Co-Autorin aufgeführt, auf dem anderen steht «Judy Foster mit Marlene Derlet». Das eine heisst «Talking up a storm» , dieses Buch handelt von Frauen und Diskussionen, die mit ihnen geführt wurden. Das andere heisst «Invisible Woman of Prehistory», dass handelte von der allgemeinen Geschichte der Frauen. 
 
