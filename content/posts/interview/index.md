@@ -56,7 +56,7 @@ Nein, nicht direkt, eines hieß "[Talking up a Storm](https://www.londoncourtboo
 
 Jetzt muss ich darüber nachdenken, was ich studiert habe. Ich hatte zuerst Linguistik, Soziologie, Anthropologie und dann die deutsche Sprache. In dieser Zeit konntest du keine Aborigines sehen. Sie wurden in Reservaten gehalten. Als ich dort studierte, war eine Freundin von mir zur Hälfte Aborigine und zur anderen Hälfte Brit,in und wir haben zusammen studiert. Sie durfte sogar das Department of Koori Research Centre übernehmen. Das war damals der Name, weil die Aborigines in einem bestimmten Teil Koori genannt wurden. Es ist ein Department für indigene Studien. Zu dieser Zeit war das etwas Bedeutendes dass eine Aborigine so etwas leiten konnte. Mit ihr durfte ich überall in Australien hingehen, das war das Positive. Wir haben sogar kleine Flugzeuge gemietet und so weiter. Das würde ich in der Schweiz nie erleben.
 
-![Marlene Derlet, geboren 14.09.1936, ist in den 60ern nach Australien Melbourne ausgewandert. 2008 kam sie wegen ihren Enkelkindern wieder zurück in die Schweiz. Heute lebt sie in einer kleinen Wohnung ausserhalb von Basel.](whatsapp-image-2024-02-24-at-1.50.40-pm.jpeg)
+![Marlene Derlet ist in den 60ern nach Australien Melbourne ausgewandert. 2008 kam sie wegen ihren Enkelkindern wieder zurück in die Schweiz. Heute lebt sie in einer kleinen Wohnung ausserhalb von Basel.](whatsapp-image-2024-02-24-at-1.50.40-pm.jpeg)
 
 **Gab es viele kulturelle Unterschiede zwischen der Schweiz und Australien?**
 
