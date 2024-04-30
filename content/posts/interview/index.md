@@ -1,5 +1,5 @@
 +++
-title = "Auswandern ans andere Ende der Welt"
+title = "Auswandern an das andere Ende der Welt"
 date = "2024-03-13"
 draft = false
 pinned = false
