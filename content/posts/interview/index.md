@@ -40,10 +40,6 @@ Wir sind von Genua, also aus Italien, nach Australien gezogen. Mit dem Schiff, d
 
 Die Person, die uns abgeholt hat, war glaube ich, Pole oder Italienern. Ich kann mich nicht genau daran erinnern. Aber sie sagte zu uns, dass wir jetzt zuerst einen Kaffee trinken würden. Das war der erste Cappuccino, der in ganz Australien gemacht wurde. Und so haben wir dort unseren Kaffee bekommen.
 
-**Gab es große Umstellungen vom Leben in Europa zum Leben in Melbourne?  Musstest du deine täglichen Abläufe ändern?** 
-
-Der Alltag hat sich nicht gross verändert. Was ich aber festgestellt habe, ist, dass man bestimmte Lebensmittel dort nicht bekommen kann. Somit mussten wir unsere Essgewohntheiten etwas verändern und dies brauchte Zeit. Das Wetter war nätürlich auch ganz anders als in der Schweiz. An einem Tag konnte es regnerische 15 Grad sein und ein paar Minuten später sind es wieder 40 Grad. Deswegen habe ich mir angewöhnt, immer einen Regenschirm dabei zu haben.  
-
 **Als was hast du gearbeitet?**
 
 Ich war in einer Buchhandlung, und das habe ich meistens den ganzen Tag gemacht. Dann habe ich natürlich später angefangen zu studieren. Anton hat zuerst in einer Autofabrik gearbeitet und dann seine eigenen Fabriken gehabt.
