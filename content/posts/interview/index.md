@@ -28,7 +28,7 @@ Die Mittagssonne taucht das geräumige Wohnzimmer in goldenes Licht. Marlene Der
 
 Anton, mein damaliger Ehemann, hatte Freunde, die Verwandte in Australien haben, und sie haben darüber gesprochen, wie schön es dort war. Ich wollte schon immer irgendwohin gehen, und er wollte ins Ausland, also war Australien damals die beste Option. Ich persönlich wollte nach Kanada gehen, aber wir haben uns dann dafür entschieden.
 
-**Wie war die Reise nach Australien, Melbourne?**                                         
+**Wie war die Reise nach Australien, Melbourne?**                                   
 
 Wir sind von Genua, also aus Italien, nach Australien gezogen. Mit dem Schiff, das hieß Johann van Olden Barnevelt. Es war ein Migrantenschiff und es legte am 18. April 1960 in Italien ab. Und wir kamen am 16. Mai 1960 in Melbourne an. Ich war oft seekrank. Ich wurde schon immer krank auf der See, sogar hier in der Schweiz, als ich ein kleines Kind war. Selbst jetzt mag ich keine Schiffe. Ich liebe Schiffe, aber sie machen mich leider krank.
 
