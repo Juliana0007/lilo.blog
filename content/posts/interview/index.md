@@ -38,7 +38,7 @@ Wir sind von Genua, also aus Italien, nach Australien gezogen. Mit dem Schiff, d
 
 **Was habt ihr am ersten Tag gemacht, als ihr angekommen seid?**
 
-Die Person, die uns abgeholt hat, war glaube ich, Pole oder Italienern. Ich kann mich nicht genau daran erinnern. Aber sie sagte zu uns, dass wir jetzt zuerst einen Kaffee trinken würden. Das war der erste Cappuccino, der in ganz Australien gemacht wurde. Und so haben wir dort unseren Kaffee bekommen.
+Die Person, die uns abgeholt hat, war, so glaube ich, Pole oder Italienern. Ich kann mich nicht genau daran erinnern. Aber sie sagte zu uns, dass wir jetzt zuerst einen Kaffee trinken würden. Das war der erste Cappuccino, der in ganz Australien gemacht wurde. Und so haben wir dort unseren Kaffee bekommen.
 
 **Als was hast du gearbeitet?**
 
