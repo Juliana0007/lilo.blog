@@ -22,7 +22,7 @@ Marlene Derlet ist am 14.09.1936 in der Schweiz geboren. Ihre Mutter kommt aus F
 
 {{</box>}}
 
-Die Mittagssonne taucht das geräumige Wohnzimmer in goldenes Licht. Marlene Derlet nimmt Platz auf einem braunen Ledersessel und erwartet gespannt die Fragen, die ich ihr in Kürze stellen werde. Die Atmosphäre wirkt ruhig und gelassen. Das Smartphone findet seinen Platz auf dem Beistelltisch, der Startbutton wird gedrückt.
+Die Mittagssonne taucht das geräumige Wohnzimmer in goldenes Licht. Marlene Derlet nimmt Platz auf einem braunen Ledersessel und wartet gespannt auf die Fragen. Die Atmosphäre wirkt ruhig und gelassen. Das Smartphone findet seinen Platz auf dem Beistelltisch, der Startbutton wird gedrückt.
 
 **Kannst du deine Motivationen teilen, warum du von der Schweiz nach Australien gezogen bist?**
 
