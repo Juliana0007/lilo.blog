@@ -18,7 +18,7 @@ Wie fühlt es sich an, in ein Land zu migrieren, das man zuvor noch nie betreten
 
 {{<box>}}
 
-Marlene Derlet ist am 14.09.1936 in der Schweiz geboren. Ihre Mutter kamm aus Frankreich. In Melbourne stuidiert Marlene und später unterrichtet sie an der Universität.
+Marlene Derlet ist am 14.09.1936 in der Schweiz geboren. Ihre Mutter kamm aus Frankreich. In Melbourne arbeitet in einem Bücherladen und stuidiert Marlene und später unterrichtet sie an der Universität.
 
 {{</box>}}
 
