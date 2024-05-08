@@ -14,8 +14,6 @@ Wie fühlt es sich an, in ein Land zu migrieren, das man zuvor noch nie betreten
 
 {{</lead>}}
 
-*Emma Derlet*
-
 {{<box>}}
 
 Marlene Derlet ist 1936 in der Schweiz geboren und auch dort aufgewachsen. Ihre Mutter kamm aus Frankreich. Nach ihrer Ankunft in Melbourne arbeitet sie in einem Bücherladen und stuidiert an der Monash University Melbourne. Später unterrichtet sie an der selben Universität.
