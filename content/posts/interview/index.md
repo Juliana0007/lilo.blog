@@ -1,5 +1,5 @@
 +++
-title = "Auswandern an das andere Ende der Welt"
+title = "Der Sprung ins Unbekannte: Marlene Derlets Reise nach Australien"
 date = "2024-03-13"
 draft = false
 pinned = false
