@@ -1,5 +1,5 @@
 +++
-title = "Der Sprung ins Unbekannte: Marlene Derlets Reise nach Australien"
+title = "Ein Leben zwischen zwei Welten"
 date = "2024-03-13"
 draft = false
 pinned = false
@@ -16,7 +16,7 @@ Wie fühlt es sich an, in ein Land zu migrieren, das man zuvor noch nie betreten
 
 {{<box>}}
 
-Marlene Derlet ist 1936 in der Schweiz geboren und auch dort aufgewachsen. Ihre Mutter kamm aus Frankreich. Nach ihrer Ankunft in Melbourne arbeitet sie in einem Bücherladen und stuidiert an der Monash University Melbourne. Später unterrichtet sie an der selben Universität.
+Marlene Derlet ist 1936 in der Schweiz geboren und dort aufgewachsen. Nach ihrer Ankunft in Melbourne, arbeitete sie in einem Bücherladen und studierte an der Monash University Melbourne. Später unterrichtete sie an der selben Universität.
 
 {{</box>}}
 
@@ -36,7 +36,7 @@ Wir sind von Genua, also aus Italien, nach Australien gezogen. Mit dem Schiff, d
 
 **Was habt ihr am ersten Tag gemacht, als ihr angekommen seid?**
 
-Die Person, die uns abgeholt hat, war, so glaube ich, Pole oder Italienern. Ich kann mich nicht genau daran erinnern. Aber sie sagte zu uns, dass wir zuerst einen Kaffee trinken würden. Das war der erste Cappuccino, der in ganz Australien gemacht wurde. Und so haben wir dort unseren Kaffee bekommen.
+Die Person, die uns abgeholt hat, war, so glaube ich, Pole oder Italienern. Ich kann mich nicht genau daran erinnern. Aber sie sagte zu uns, dass wir jetzt zuerst einen Kaffee trinken würden. Das war der erste Cappuccino, der in ganz Australien gemacht wurde. Und so haben wir dort unseren Kaffee bekommen.
 
 **Als was hast du gearbeitet?**
 
@@ -52,7 +52,7 @@ Nein, nicht direkt, eines hieß "[Talking up a Storm](https://www.londoncourtboo
 
 **Du hast auch Forschungen über Aborigines gemacht. Wie bist du dazu gekommen?**
 
-Jetzt muss ich darüber nachdenken, was ich studiert habe. Ich hatte zuerst Linguistik, Soziologie, Anthropologie und dann die deutsche Sprache. In dieser Zeit konntest du keine Aborigines sehen. Sie wurden in Reservaten gehalten. Als ich dort studierte, war eine Freundin von mir zur Hälfte Aborigine und zur anderen Hälfte Brit,in und wir haben zusammen studiert. Sie durfte sogar das Department of Koori Research Centre übernehmen. Das war damals der Name, weil die Aborigines in einem bestimmten Teil Koori genannt wurden. Es ist ein Department für indigene Studien. Zu dieser Zeit war das etwas Bedeutendes dass eine Aborigine so etwas leiten konnte. Mit ihr durfte ich überall in Australien hingehen, das war das Positive. Wir haben sogar kleine Flugzeuge gemietet und so weiter. Das würde ich in der Schweiz nie erleben.
+Jetzt muss ich darüber nachdenken, was ich studiert habe. Ich hatte zuerst Linguistik, Soziologie, Anthropologie und dann die deutsche Sprache. In dieser Zeit konntest du keine Aborigines sehen. Sie wurden in Reservaten gehalten. Als ich dort studierte, war eine Freundin von mir zur Hälfte Aborigine und zur anderen Hälfte Britin und wir haben zusammen studiert. Sie durfte sogar das Department of Koori Research Centre übernehmen. Das war damals der Name, weil die Aborigines in einem bestimmten Teil Koori genannt wurden. Es ist ein Department für indigene Studien. Zu dieser Zeit war das etwas Bedeutendes dass eine Aborigine so etwas leiten konnte. Mit ihr durfte ich überall in Australien hingehen, das war das Positive. Wir haben sogar kleine Flugzeuge gemietet und so weiter. Das würde ich in der Schweiz nie erleben.
 
 ![Marlene Derlet ist in den 60ern nach Australien Melbourne ausgewandert. 2008 kam sie wegen ihren Enkelkindern wieder zurück in die Schweiz. Heute lebt sie in einer kleinen Wohnung ausserhalb von Basel.](whatsapp-image-2024-02-24-at-1.50.40-pm.jpeg)
 
