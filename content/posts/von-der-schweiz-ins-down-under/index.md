@@ -14,7 +14,7 @@ Mit 23 Jahren wandert die Schweizerin Marlene Derlet nach Australien aus. An ihr
 
 {{<box>}}
 
-Viele Menschen wandern in den 60er Jahren nach Australien aus, weil das Land zu dieser Zeit eine gezielte Einwanderungspolitik hat und Arbeitskräfte in verschiedenen Sektoren benötigt. Von 1851 bis Ende der 1860er-Jahre spielte aber auch der Victorianische Goldrausch eine grosse Rolle. Innerhalb von nur zehn Jahren verdreifachte sich die Bevölkerung Australiens deswegen.
+Viele Menschen wandern in den 60er Jahren nach Australien aus, weil das Land zu dieser Zeit eine gezielte Einwanderungspolitik hat und Arbeitskräfte in verschiedenen Sektoren benötigt. Von 1851 bis Ende der 1860er-Jahre spielte aber auch der Victorianische Goldrausch eine grosse Rolle. Innerhalb von nur zehn Jahren verdreifachte sich die Bevölkerung Australiens deswegen. Diese Gründe überzeugten auch Marlene und Anton in dieses vielversprechende Land zu immigrieren.
 
 {{</box>}}
 
