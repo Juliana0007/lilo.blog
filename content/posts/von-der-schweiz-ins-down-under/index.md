@@ -14,11 +14,7 @@ Mit 23 Jahren wandert die Schweizerin Marlene Derlet nach Australien aus. An ihr
 
 {{<box>}}
 
-* Name: Marlene Derlet
-* Alter: 14.09.1936
-* Status: Pensioniert
-* Herkunft: Schweiz, Frankreich
-* Ehemalige Berufung: Kaufmännisch Angestellte, Lehrerin, Forscherin, Autorin
+Viele Menschen wandern in den 60er Jahren nach Australien aus, weil das Land zu dieser Zeit eine gezielte Einwanderungspolitik hat und Arbeitskräfte in verschiedenen Sektoren benötigt. Von 1851 bis Ende der 1860er-Jahre spielte aber auch der Victorianische Goldrausch eine grosse Rolle. Innerhalb von nur zehn Jahren verdreifachte sich die Bevölkerung Australiens deswegen.
 
 {{</box>}}
 
@@ -32,7 +28,7 @@ Der Alltag
 
 > Ich wollte nicht zurück in die Schweiz. Ich wollte das Land entdecken.
 
-In den 60er Jahren wandern wegen des Goldrausches viele Menschen nach Viktoria/Australien aus. Auch Anton versucht sein Glück mit Goldsuchen. Doch das gefundene Gold reicht nicht, um den Lebensunterhalt zu bestreiten. Deswegen sucht das Paar nach der Einreise eine Arbeit. Ein Job zu finden, stellt sich als einfach heraus, denn Australien braucht Arbeiter. Die freie Stelle in einer Buchhandlung kommt Marlene gerade recht. Während Marlene Bücher verkauft, arbeitet Anton in einer Autofabrik. Nur drei Tage braucht Anton, um diesen Job zu finden. Bald darauf, nach einigen Jahren harter Arbeit, kann Anton seine eigenen Fabriken eröffnen. An die australische Kultur passen sich Marlene und Anton ziemlich gut an. Marlene schwärmt von der Freundlichkeit der Australier im Vergleich zu den Schweizern. Das Heimatland ist in diesem Moment für die junge Auswanderin sowohl geographisch als auch mental fern. Was ihr grosse Freude bereitet, ist das warme Wetter mit der leichten Sommerbrise. Jedoch verursachen die Essgewohnheiten der australischen Küche dem Paar Schwierigkeiten. Es dauert einige Tage, um geeignetes Essen zu finden, damit sie sich wohl fühlen. Die verschiedenen schweizer Bäckereien erleichtern ihnen die Angewöhnung an das fremde Land. Obwohl das Einleben positiv verläuft, gibt es während dem  Alltag trotzdem kleine Missverständnisse. Zum Beispiel als ein paar Freunde Marlene fragen, ob sie ein Teller zu der Garten Party bringen könnten. Gesagt getan, bringt Marlene einen Teller mit. Gemeint war jedoch einen Teller mit Essen. 
+In den 60er Jahren wandern wegen des Goldrausches viele Menschen nach Viktoria/Australien aus. Allein im Jahr 1960 wandern ungefähr 105.000 Menschen nach Australien aus. Auch Anton versucht sein Glück mit Goldsuchen. Doch das gefundene Gold reicht nicht, um den Lebensunterhalt zu bestreiten. Deswegen sucht das Paar nach der Einreise eine Arbeit. Ein Job zu finden, stellt sich als einfach heraus, denn Australien braucht Arbeiter. Die freie Stelle in einer Buchhandlung kommt Marlene gerade recht. Während Marlene Bücher verkauft, arbeitet Anton in einer Autofabrik. Nur drei Tage braucht Anton, um diesen Job zu finden. Bald darauf, nach einigen Jahren harter Arbeit, kann Anton seine eigenen Fabriken eröffnen. An die australische Kultur passen sich Marlene und Anton ziemlich gut an. Marlene schwärmt von der Freundlichkeit der Australier im Vergleich zu den Schweizern. Das Heimatland ist in diesem Moment für die junge Auswanderin sowohl geographisch als auch mental fern. Was ihr grosse Freude bereitet, ist das warme Wetter mit der leichten Sommerbrise. Jedoch verursachen die Essgewohnheiten der australischen Küche dem Paar Schwierigkeiten. Es dauert einige Tage, um geeignetes Essen zu finden, damit sie sich wohl fühlen. Die verschiedenen schweizer Bäckereien erleichtern ihnen die Angewöhnung an das fremde Land. Obwohl das Einleben positiv verläuft, gibt es während dem  Alltag trotzdem kleine Missverständnisse. Zum Beispiel als ein paar Freunde Marlene fragen, ob sie ein Teller zu der Garten Party bringen könnten. Gesagt getan, bringt Marlene einen Teller mit. Gemeint war jedoch einen Teller mit Essen. 
 
 Das Studium
 
