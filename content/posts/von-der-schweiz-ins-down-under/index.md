@@ -8,7 +8,7 @@ image = "img_0748.jpeg"
 +++
 {{<lead>}}
 
-Mit 23 Jahren wandert die Schweizerin Marlene Derlet nach Australien aus. An ihrer Seite ist ihr Mann, Anton Derlet. Marlene Derlet erzählt, wie sie sich in einem neuen Land zurechtfindet, aber auch welche Herausforderungen eine solche Veränderung mit sich bringt. Ihre Erzählungen beinhalten Geschichten über den  ersten Kaffee bis zu spannenden Forschungsreisen. Zudem erläutert sie, wieso sie wieder in die Schweiz zurückgekehrt ist.
+Mit 23 Jahren wandert die Schweizerin Marlene Derlet nach Australien aus. An ihrer Seite ist ihr Mann, Anton Derlet. Marlene Derlet erzählt, wie sie sich in einem neuen Land zurechtfindet, aber auch welche Herausforderungen eine solche Veränderung mit sich bringt. Ihre Erzählungen beinhalten Geschichten über den  ersten Kaffee bis zu spannenden Forschungsreisen. Zudem erläutert sie, wieso sie wieder in die Schweiz zurückkehrt.
 
 {{</lead>}}
 
