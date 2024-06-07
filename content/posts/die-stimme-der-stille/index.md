@@ -3,7 +3,7 @@ title = "Die Stimme der Stille"
 date = "2024-06-07"
 draft = false
 pinned = false
-tags = ["Poetryslam", "poetry", "poems", "Gedicht", ""]
+tags = ["Poetryslam", "poetry", "poems", "Gedicht"]
 image = "kristin-snippe-pizjykhn_hy-unsplash-2.jpg"
 +++
 
