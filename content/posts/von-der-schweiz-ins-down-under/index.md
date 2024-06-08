@@ -34,7 +34,7 @@ In den 60er Jahren wandern wegen des Goldrausches viele Menschen nach Viktoria/A
 
 Das Studium
 
-![Marlene Derlet, geboren 14.09.1936, ist in den 60ern nach Australien Melbourne ausgewandert. 2008 kam sie wegen ihren Enkelkindern wieder zurück in die Schweiz. Heute lebt sie in einer kleinen Wohnung auserhalb von Basel.](img_2759.jpeg)
+![ Marlene Derlet, geboren 14.09.1936, zog in den 60ern nach Melbourne, Australien, und kehrte 2008 wegen ihrer Enkelkinder in die Schweiz zurück. Jetzt lebt sie in einer kleinen Wohnung außerhalb von Basel.](img_2759.jpeg)
 
 > Sowas hätte ich nie in der Schweiz erlebt!
 
