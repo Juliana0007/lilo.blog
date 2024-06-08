@@ -8,7 +8,7 @@ image = "img_0748.jpeg"
 +++
 {{<lead>}}
 
-Nach dem 2. Weltkrieg zog es viele Europäer nach Australien auf der Suche nach Stabilität und neuen Chancen. Das Land versprach Arbeit, was zahlreiche Hoffnungsvolle aus Europa anzog, darunter Marlene Derlet und ihr Mann Anton. Marlene teilt ihre Erfahrungen über das Leben in einem neuen Land, von den kleinen Freuden des Alltags bis zu den großen Herausforderungen, und erklärt, warum sie schließlich in die Schweiz zurückkehrten.
+Nach dem 2. Weltkrieg zog es viele Europäer nach Australien auf der Suche nach Stabilität und neuen Chancen. Das Land versprach Arbeit, was zahlreiche Hoffnungsvolle aus Europa anzog, darunter Marlene Derlet und ihr Mann Anton. Aber wie ist es alles hinter sich zu lassen und Komplet neu zu starten? Marlene teilt ihre Erfahrungen über das Leben in einem neuen Land, von den kleinen Freuden des Alltags bis zu den großen Herausforderungen, und erklärt, warum sie schließlich in die Schweiz zurückkehrten.
 
 {{</lead>}}
 
