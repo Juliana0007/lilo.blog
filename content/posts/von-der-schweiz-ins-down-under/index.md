@@ -8,7 +8,7 @@ image = "img_0748.jpeg"
 +++
 {{<lead>}}
 
-Nach dem 2. Weltkrieg zieht es zahlreiche Europäer nach Australien.  Die Suche nach Stabilität und neuen Möglichkeiten führte zu einer regelrechten Auswanderungswelle auf den Kontinent. Australien, mit seinem Versprechen von Land und Arbeit, lockte Menschen aus verschiedenen Teilen Europas an, die Hoffnung auf ein besseres Leben suchten. Marlene Derlet und ihr Mann Anton sind zwei von ihnen.  Marlene erzählt, wie sie sich in einem neuen Land zurechtfindet, aber auch welche Herausforderungen eine solche Veränderung mit sich bringt. Ihre Erzählungen beinhalten Geschichten über den ersten Kaffee bis zu spannenden Forschungsreisen. Zudem erläutert sie, wieso sie wieder in die Schweiz zurückkehrt.
+Nach dem 2. Weltkrieg zog es viele Europäer nach Australien auf der Suche nach Stabilität und neuen Chancen. Das Land versprach Arbeit und Land, was zahlreiche Hoffnungsvolle aus Europa anzog, darunter Marlene Derlet und ihr Mann Anton. Marlene teilt ihre Erfahrungen über das Leben in einem neuen Land, von den kleinen Freuden des Alltags bis zu den großen Herausforderungen, und erklärt, warum sie schließlich in die Schweiz zurückkehrten.
 
 {{</lead>}}
 
