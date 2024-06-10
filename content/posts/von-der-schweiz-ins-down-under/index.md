@@ -8,7 +8,7 @@ image = "img_0748.jpeg"
 +++
 {{<lead>}}
 
-Nach dem 2. Weltkrieg zog es viele Europäer nach Australien auf der Suche nach Stabilität und neuen Chancen. Das Land versprach Arbeit, was zahlreiche Hoffnungsvolle aus Europa anzog, darunter Marlene Derlet und ihr Mann Anton. Aber wie ist es, alles hinter sich zu lassen und komplet neu anzufangen? Marlene teilt ihre Erfahrungen über das Leben in einem neuen Land, von den kleinen Freuden des Alltags bis zu den großen Herausforderungen.
+Nach dem 2. Weltkrieg zog es viele Europäer nach Australien auf der Suche nach Stabilität und neuen Chancen. Das Land versprach Arbeit, was zahlreiche Hoffnungsvolle aus Europa anzog, darunter Marlene Derlet und ihr Mann Anton. Aber wie ist es, alles hinter sich zu lassen und Komplet neu anzufangen? Marlene teilt ihre Erfahrungen über das Leben in einem neuen Land, von den kleinen Freuden des Alltags bis zu den großen Herausforderungen.
 
 {{</lead>}}
 
@@ -24,7 +24,7 @@ Der Anfang
 
 In den 1960er Jahren hat jeder über das Leben in Australien geschwärmt, die Wärme, die Sonne, die Menschen. Auch Marlene und ihr Ehemann Anton wollen an die Wärme ziehen, daher machen sie sich am 18. April 1960 mit dem Schiff auf den Weg. Das Schiff Johan van Oldenbarnevelt, ein Migrantenschiff, hat Platz für 770 Passagiere. Von Genua aus sticht das Passagierschiff zu einer fünfwöchigen Reise auf See. Marlene leidet unter der Seekrankheit, doch auf dem Schiff gibt es viele Möglichkeiten sich abzulenken. Als das Ehepaar am 16. Mai 1960 in Melbourne, der zweitgrössten Stadt Australiens, ankommt, werden sie von polnischen Freunden erwartet. Die Bekanntschaft führt Marlene und Anton direkt zu einem neu eröffnetem Kaffeeladen. Erschöpft von der Reise, trinken sie ihren ersten Cappuccino, welcher nur in diesem Kaffeeladen serviert wird. Die weiteren Wochen verbringt das Paar in einer Unterkunft von Freunden, die sie auf dem Schiff kennengelernt haben. Zimmer oder Wohnungen werden oft von Einwohnern an Migranten vermietet. Marlenes erster Eindruck von Melbourne ist positiv. Sie fühlt sich schnell wohl in dem für sie noch fremden Land.
 
-Das Geräusch einer Katze, die durch die offene Türe hereinkommt, reißt Marlene aus ihren Erzählungen. Eine kleine getiegerte Katze mit einem golden leuchtenden Bauch setzt sich auf das Sofa und streckt sich genüsslich aus. Draussen, bewegen sich die Äste der Bäume. Die jungen, frischen Blätter tanzen im Licht der Mittagssonne, ein Anblick. Marlene lächelt, als sie die Katze betrachtet, und setzt ihre Erzählung fort.
+Das Geräusch einer Katze, die durch die offene Türe hereinkommt, reißt Marlene aus ihren Erzählungen. Eine kleine getigerte Katze mit einem golden leuchtenden Bauch setzt sich auf das Sofa und streckt sich genüsslich aus. Draussen, bewegen sich die Äste der Bäume. Die jungen, frischen Blätter tanzen im Licht der Mittagssonne, ein Anblick. Marlene lächelt, als sie die Katze betrachtet, und setzt ihre Erzählung fort.
 
 Der Alltag
 
