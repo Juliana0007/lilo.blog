@@ -14,7 +14,7 @@ Nach dem 2. Weltkrieg zog es viele Europäer nach Australien auf der Suche nach 
 
 {{<box>}}
 
-Viele Menschen wandern in den 60er Jahren nach Australien aus, weil das Land zu dieser Zeit eine gezielte Einwanderungspolitik hat und Arbeitskräfte in verschiedenen Sektoren benötigt. Von 1851 bis Ende der 1860er-Jahre spielte aber auch der Victorianische Goldrausch eine grosse Rolle. Innerhalb von nur zehn Jahren verdreifachte sich die Bevölkerung Australiens deswegen. Diese Gründe überzeugten auch Marlene und Anton in dieses vielversprechende Land zu immigrieren.
+Unmengen von Menschen wandern in den 60er Jahren nach Australien aus, weil das Land zu dieser Zeit eine gezielte Einwanderungspolitik hat und Arbeitskräfte in verschiedenen Sektoren benötigt. Von 1851 bis Ende der 1860er-Jahre spielte aber auch der Victorianische Goldrausch eine grosse Rolle. Innerhalb von nur zehn Jahren verdreifachte sich die Bevölkerung Australiens deswegen. Diese Gründe überzeugten auch Marlene und Anton in dieses vielversprechende Land zu immigrieren.
 
 {{</box>}}
 
