@@ -34,6 +34,10 @@ In den 60er Jahren wandern wegen des Goldrausches viele Menschen nach Viktoria/A
 
 ![Die Strassen von Melbourne. An einem heissen Tag treiben sich nicht viele Menschen dort herum. Doch trotzdem zieht diese Stadt wegen ihrer wunderschönen Landschaft und mehreren Arbeitsstellen Auswandere an.](img_0718-2.jpeg)
 
+![](img_0718-4.jpeg)
+
+![](img_0718.jpeg)
+
 Das Studium
 
 > Sowas hätte ich nie in der Schweiz erlebt!
