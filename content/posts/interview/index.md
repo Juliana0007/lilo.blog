@@ -30,7 +30,7 @@ Anton, mein damaliger Ehemann, hatte Freunde, die Verwandte in Australien haben,
 
 Wir sind von Genua, also aus Italien, nach Australien gezogen. Mit dem Schiff, das hieß Johann van Olden Barnevelt. Es war ein Migrantenschiff und es legte am 18. April 1960 in Italien ab. Und wir kamen am 16. Mai 1960 in Melbourne an. Ich war oft seekrank. Ich wurde schon immer krank auf der See, sogar hier in der Schweiz, als ich ein kleines Kind war. Selbst jetzt mag ich keine Schiffe. Ich liebe Schiffe, aber sie machen mich leider krank.
 
-> «Ich mochte es, in Australien zu leben, weil die Leute irgendwie so anders waren, freundlicher auf eine Weise, und auch die Nachbarn. Viel freundlicher als die Schweizer.»
+> “Ich mochte es, in Australien zu leben, weil die Leute irgendwie so anders waren, freundlicher auf eine Weise, und auch die Nachbarn. Viel freundlicher als die Schweizer.“
 >
 > *Marlene Derlet*
 
@@ -46,7 +46,7 @@ Ich war in einer Buchhandlung, und das habe ich meistens den ganzen Tag gemacht.
 
 Nein, nicht direkt, eines hieß "[Talking up a Storm](https://www.londoncourtbooks.com.au/bookstore/p/talking-up-a-storm)". Talking up a storm handelt von der Geschichte der Frauen und Diskussionen, die ich mit anderen Frauen geführt habe. Das andere hieß "[Invisible Woman of Prehistory](https://www.spinifexpress.com.au/marlenederlet)", das handelte von der allgemeinen Geschichte der Frauen. Alles über Frauen seit der Entstehung.
 
-> «In einer Frauengruppe habe ich angefangen zu schreiben. Und so habe ich angefangen mein eigenes Buch zu schreiben»
+> „In einer Frauengruppe habe ich angefangen zu schreiben. Und so habe ich angefangen mein eigenes Buch zu schreiben“
 >
 > *Marlene Derlet*
 
