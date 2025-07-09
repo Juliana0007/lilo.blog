@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "Emma Juliana Derlet"
-image = "/media/img_1970.png"
+name = "Juliana"
+image = "/media/img_0846.png"
 url = "/about/"
 +++
