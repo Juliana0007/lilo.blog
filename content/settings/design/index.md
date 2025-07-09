@@ -1,6 +1,6 @@
 +++
 headless = true
-icon = "/media/img_1970.png"
+icon = ""
 logo = "/media/img_1972.png"
 image = "/media/img_0846.png"
 color = "#0000CD"
